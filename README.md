@@ -1,2 +1,2 @@
-# PHP-code-
-php example code
+# PHP code
+php的一些代码例子
